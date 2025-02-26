@@ -76,9 +76,11 @@ Prompt engineering helps avoid that confusing  answers by making your questions 
 Vague Prompt:
 
 "Write a story."
+
 Improved Prompt:
 
 "Write a 50-word science fiction story about a robot discovering a hidden garden."
+
 Why it's better:
 
 "Write a 50-word..." Specifies the length, forcing conciseness.
